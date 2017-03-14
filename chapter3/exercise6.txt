@@ -1,0 +1,2 @@
+That a variable or method was used without first being declared.
+The variable was most likely declared within a block.
