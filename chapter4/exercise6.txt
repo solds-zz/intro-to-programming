@@ -1,0 +1,2 @@
+The method 'calculate_product' was called with only 1 argument.
+The second argument is missing.
