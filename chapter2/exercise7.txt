@@ -1,0 +1,2 @@
+At line 2 the interpreter encountered a right parenthesis when it was expecting a right brace.
+Most likely a typo.
