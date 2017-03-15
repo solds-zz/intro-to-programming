@@ -1,0 +1,2 @@
+The syntax error occurs because there isn't an 'end' keyword after the if-else statement.
+This error can be fixed by placing 'end' at the end of the if-else statement.
