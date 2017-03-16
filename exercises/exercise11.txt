@@ -1,0 +1,2 @@
+I prefer the official documentation for both Ruby and Rails (ruby-doc.org & api.rubyonrails.org) when I have a quick question I need answered.
+However, rubydocs.org seems incredibly useful and will be my goto reference while developing Rails projects from now on.

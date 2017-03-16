@@ -1,0 +1,1 @@
+Arrays use integers to reference their values whereas hashes use keys.

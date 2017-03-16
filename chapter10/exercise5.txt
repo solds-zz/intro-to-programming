@@ -1,0 +1,1 @@
+The method parameter 'block' is missing its ampersand which allows the block to be passed as a parameter.

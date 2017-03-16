@@ -1,0 +1,1 @@
+Writing code that anticipates certain errors that may arise and handling them gracefully in order to prevent your program from crashing.

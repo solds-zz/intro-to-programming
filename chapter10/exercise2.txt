@@ -1,0 +1,1 @@
+It will print nothing because the block is not being called and it returns a Proc object.

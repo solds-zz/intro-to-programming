@@ -1,0 +1,3 @@
+h1 = {:key => [1, 2]} # Example of an array as a hash value
+h2 = h1
+a1 = [h1, h2] # Example of a array of hashes
