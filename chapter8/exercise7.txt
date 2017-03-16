@@ -1,0 +1,1 @@
+my_hash uses the symbol :x as its key, whereas my_hash2 uses the value of x, "hi there", as its key.
